@@ -11,19 +11,24 @@ stampa un messaggio appropriato sull’esito del controllo.
 // e verrà stampata
 
 
-
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------------------------------------
 
 Gioco dei dadi
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+
+/creo variabile giocatore e genero un numero random da 1 a 6.
+/creo variabile pc e genero un numero a random tra 1 e 6.
+/dico se il giocatore è maggiore del pc ha vinto
+/se il pc è maggiore del giocatore ha vinto
+/se nessuno dei due è maggiore dell'altro hanno pareggiato
+
+
+
+
+
+
 
 
 
